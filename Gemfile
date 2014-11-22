@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'github-pages'
+gem 'hitimes', '~> 1.2.2'
+gem 'github-pages-health-check', '~> 0.1.1'
+gem 'wdm', '>= 0.1.0'
